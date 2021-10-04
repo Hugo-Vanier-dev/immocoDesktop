@@ -1,0 +1,56 @@
+#pixGallery img {
+  opacity: 0.5;
+  border-radius: 6px;
+  background: rgba(127, 127, 127, 0.5);
+  cursor: pointer;
+}
+#pixGallery img:hover {
+  opacity: 1;
+  border-radius: 6px;
+  background: rgb(255, 255, 255);
+  border: 3px solid #ffff;
+  transition: all 0.2s ease;
+}
+
+#pixGallery {
+  background: #93c4fd5e;
+  width: 100%;
+  border-radius: 6px;
+  padding: 7px;
+}
+.pixLoaderContainer{
+  height: 56rem;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  position: sticky;
+  border-radius: 6px;
+}
+.picture_1 {
+  width: auto;
+  height: 100%;
+}
+.picture_2 {
+  width: auto;
+  height: 100%;
+}
+.picture_3 {
+  width: auto;
+  height: 100%;
+}
+.picture_4 {
+  width: auto;
+  height: 100%;
+}
+.picture_5 {
+  width: auto;
+  height: 100%;
+}
+.picture_6 {
+  width: auto;
+  height: 100%;
+}
+.picture_6 {
+  width: auto;
+  height: 100%;
+}

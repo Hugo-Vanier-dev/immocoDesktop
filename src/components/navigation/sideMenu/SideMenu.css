@@ -1,0 +1,23 @@
+.SideMenuContainer{
+    height: 100%;
+    width: 14rem;
+}
+
+.LogoIcoSideMenu{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-color: rgb(243, 244, 246);
+    background-image: url('../../../assets/img/icoLogo.png');
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: center;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    padding: 5rem;
+}
+div.SideMenuContainer> div.btnMenu{
+    height: 2rem;
+}
